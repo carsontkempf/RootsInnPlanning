@@ -29,10 +29,3 @@ RootsInn aims to streamline the management of complex relationships between enti
 ![Transition Mapping](./Transition%20Mapping.png)
 
 The database is structured to capture detailed relationships and states, enabling efficient query and data manipulation.
-
-## Django App Development
-### 1. Setting up Django Project
-```bash
-django-admin startproject rootsinn
-cd rootsinn
-django-admin startapp main
